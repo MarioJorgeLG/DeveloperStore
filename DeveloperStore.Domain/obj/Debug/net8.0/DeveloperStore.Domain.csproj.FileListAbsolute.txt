@@ -1,0 +1,13 @@
+C:\Projetos\DeveloperStore\DeveloperStore.Domain\obj\Debug\net8.0\DeveloperStore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\DeveloperStore\DeveloperStore.Domain\obj\Debug\net8.0\DeveloperStore.Domain.AssemblyInfoInputs.cache
+C:\Projetos\DeveloperStore\DeveloperStore.Domain\obj\Debug\net8.0\DeveloperStore.Domain.AssemblyInfo.cs
+C:\Projetos\DeveloperStore\DeveloperStore.Domain\obj\Debug\net8.0\DeveloperStore.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\DeveloperStore\DeveloperStore.Domain\obj\Debug\net8.0\DeveloperStore.Domain.sourcelink.json
+C:\Projetos\DeveloperStore\DeveloperStore.Domain\obj\Debug\net8.0\DeveloperStore.Domain.csproj.AssemblyReference.cache
+C:\Projetos\DeveloperStore\DeveloperStore.Domain\bin\Debug\net8.0\DeveloperStore.Domain.deps.json
+C:\Projetos\DeveloperStore\DeveloperStore.Domain\bin\Debug\net8.0\DeveloperStore.Domain.dll
+C:\Projetos\DeveloperStore\DeveloperStore.Domain\bin\Debug\net8.0\DeveloperStore.Domain.pdb
+C:\Projetos\DeveloperStore\DeveloperStore.Domain\obj\Debug\net8.0\DeveloperStore.Domain.dll
+C:\Projetos\DeveloperStore\DeveloperStore.Domain\obj\Debug\net8.0\refint\DeveloperStore.Domain.dll
+C:\Projetos\DeveloperStore\DeveloperStore.Domain\obj\Debug\net8.0\DeveloperStore.Domain.pdb
+C:\Projetos\DeveloperStore\DeveloperStore.Domain\obj\Debug\net8.0\ref\DeveloperStore.Domain.dll

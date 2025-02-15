@@ -1,0 +1,14 @@
+C:\Projetos\DeveloperStore\DeveloperStore.Application\bin\Debug\net8.0\DeveloperStore.Application.deps.json
+C:\Projetos\DeveloperStore\DeveloperStore.Application\bin\Debug\net8.0\DeveloperStore.Application.dll
+C:\Projetos\DeveloperStore\DeveloperStore.Application\bin\Debug\net8.0\DeveloperStore.Application.pdb
+C:\Projetos\DeveloperStore\DeveloperStore.Application\bin\Debug\net8.0\DeveloperStore.Domain.dll
+C:\Projetos\DeveloperStore\DeveloperStore.Application\bin\Debug\net8.0\DeveloperStore.Domain.pdb
+C:\Projetos\DeveloperStore\DeveloperStore.Application\obj\Debug\net8.0\DeveloperStore.Application.csproj.AssemblyReference.cache
+C:\Projetos\DeveloperStore\DeveloperStore.Application\obj\Debug\net8.0\DeveloperStore.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\DeveloperStore\DeveloperStore.Application\obj\Debug\net8.0\DeveloperStore.Application.csproj.CoreCompileInputs.cache
+C:\Projetos\DeveloperStore\DeveloperStore.Application\obj\Debug\net8.0\DeveloperStore.Application.sourcelink.json
+C:\Projetos\DeveloperStore\DeveloperStore.Application\obj\Debug\net8.0\Develope.F8C93967.Up2Date
+C:\Projetos\DeveloperStore\DeveloperStore.Application\obj\Debug\net8.0\DeveloperStore.Application.dll
+C:\Projetos\DeveloperStore\DeveloperStore.Application\obj\Debug\net8.0\refint\DeveloperStore.Application.dll
+C:\Projetos\DeveloperStore\DeveloperStore.Application\obj\Debug\net8.0\DeveloperStore.Application.pdb
+C:\Projetos\DeveloperStore\DeveloperStore.Application\obj\Debug\net8.0\ref\DeveloperStore.Application.dll
